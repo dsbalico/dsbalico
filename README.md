@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/daniel-balico/daniel-balico/main/banner.png)<br/>
+
 ### 👨🏻‍💻 About me
 Hi, I'm Daniel Shan Balico and I'm a computer science student at Technological University of the Philippines. I mainly do full-stack Web Development but now I don't know the path that I will be taking whether in Software Engineering or Data Science since when I began to be curious and learn Data Science and Machine Learning.
 
