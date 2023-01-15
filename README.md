@@ -10,7 +10,7 @@ My goal is to create high-quality and user-friendly projects that not only solve
 You can find some of my projects on my GitHub profile, and I welcome any feedback or suggestions. Thank you for visiting!
 
 ### 🛠️ My skills
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,react,tailwindcss,bootstrap,express,nodejs,mongodb,netlify,heroku&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,react,tailwindcss,bootstrap,express,nodejs,mongodb,netlify,heroku,tensorflow,&perline=5" />
 
 ### 🌱 I’m currently learning
 * [ ] Data Science and Machine Learning
