@@ -12,13 +12,9 @@ You can find some of my projects on my GitHub profile, and I welcome any feedbac
 ### 🛠️ My skills
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,react,tailwindcss,bootstrap,express,nodejs,mongodb,netlify,heroku,tensorflow&perline=5" />
 
-### 🌱 I’m currently learning
-* [ ] Data Science and Machine Learning
-
-
 ----------
 <p align="left">
-  <a href="https://github.com/daniel-balico"_blank"><img src="https://img.shields.io/badge/Github-daniel_balico-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/dnl.blc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40dnl_blc-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://www.facebook.com/daniel.balico" target="_blank"><img src="https://img.shields.io/badge/Facebook-Daniel_Shan_Balico-blue?style=for-the-badge&logo=facebook"></a>
+  <a href="https://github.com/dsbalico"_blank"><img src="https://img.shields.io/badge/Github-daniel_balico-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/dsbalico/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40dnl_blc-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.facebook.com/dsbalico" target="_blank"><img src="https://img.shields.io/badge/Facebook-Daniel_Shan_Balico-blue?style=for-the-badge&logo=facebook"></a>
 </p>
