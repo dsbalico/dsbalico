@@ -7,7 +7,7 @@ My goal is to create high-quality and user-friendly projects that not only solve
 You can find some of my projects on my GitHub profile, and I welcome any feedback or suggestions. Thank you for visiting!
 
 ### 🛠️ My skills
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,bootstrap,express,nodejs,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,express,nodejs,sequelize,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman&perline=7" />
 
 ----------
 <p align="left">
